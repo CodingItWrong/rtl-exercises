@@ -18,4 +18,7 @@ As you decide what to check in your JSX, remember to focus on user-facing things
 
 ## Getting Help
 
-If you get stuck, feel free to ask questions, or check <https://testing-library.com/docs/queries/about>
+If you get stuck, feel free to ask questions, or check:
+
+- <https://testing-library.com/docs/react-testing-library/example-intro>
+- <https://testing-library.com/docs/queries/about>

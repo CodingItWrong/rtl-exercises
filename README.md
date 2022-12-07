@@ -2,7 +2,7 @@
 
 The exercise repository used in the ["Designing Effective Tests with React Testing Library"](https://codingitwrong.com/workshops/rtl-berlin) workshop at React Day Berlin 2022.
 
-This branch is the starting state of the exercises.
+This branch is the starting state of the exercises. Solutions are available on the `solutions` branch.
 
 ## Requirements
 

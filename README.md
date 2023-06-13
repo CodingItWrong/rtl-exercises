@@ -1,8 +1,8 @@
 # Designing Effective Tests with React Testing Library - Exercises
 
-The exercise repository used in the ["Designing Effective Tests with React Testing Library"](https://codingitwrong.com/workshops/rtl-berlin) workshop at React Day Berlin 2022.
+The exercise repository used in the ["Designing Effective Tests with React Testing Library"](https://codingitwrong.com/workshops/rtl-summit) workshop at React Summit 2023.
 
-This branch is the starting state of the exercises. Solutions are available on the `solution` branch.
+The `main` branch is the starting state of the exercises. Solutions are available on the `solution` branch.
 
 ## Requirements
 
